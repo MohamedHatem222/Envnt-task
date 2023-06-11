@@ -3,7 +3,7 @@
     <v-card flat tile class="primary darken-1 white--text text-center">
       <v-card-text
         class="white--text pt-5"
-      >
+      > 
       </v-card-text>
       <!-- <v-divider></v-divider> -->
       <v-card-text class="white--text">
